@@ -1,8 +1,9 @@
 /*  your css code here. If applicable */
- table {
-       
-        background-color: yellow;
-    }
+table {
+    background-color: yellow;
+    border-collapse: separate;
+    border-spacing: 2px;
+}
 
     table, tr,th, td  {
         border: 1px solid black;
